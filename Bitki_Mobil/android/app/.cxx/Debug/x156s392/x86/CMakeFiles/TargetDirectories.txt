@@ -1,0 +1,2 @@
+C:/Users/muham/Desktop/bitki_tespiti/android/app/.cxx/Debug/x156s392/x86/CMakeFiles/edit_cache.dir
+C:/Users/muham/Desktop/bitki_tespiti/android/app/.cxx/Debug/x156s392/x86/CMakeFiles/rebuild_cache.dir
